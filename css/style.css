@@ -1,0 +1,8 @@
+
+#hero-section  {
+    max-height: 30vh;
+    width: 100%;
+    background-image: url(../img/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
